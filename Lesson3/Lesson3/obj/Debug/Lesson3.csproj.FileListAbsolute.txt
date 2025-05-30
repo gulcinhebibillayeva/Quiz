@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
